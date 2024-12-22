@@ -54,36 +54,31 @@ The project uses ROUGE metrics for evaluation:
 - ROUGE-L: Longest Common Subsequence
 
 ## Results
+![Screenshot 2024-12-10 211122](https://github.com/user-attachments/assets/11b44a98-6b57-4f47-9f2d-503df74dd1af)
 
-![Screenshot 2024-12-10 211218](https://github.com/user-attachments/assets/72ae57b7-e129-40a9-ac41-17ec407b6423)
+![Screenshot 2024-12-10 211218](https://github.com/user-attachments/assets/2fc6a3b1-840c-4e1a-b83c-9ef08efc69de)
 
-![Screenshot 2024-12-10 211230](https://github.com/user-attachments/assets/b0e84a3a-3c48-40bf-92bc-938f0c3ea1bc)
+![Screenshot 2024-12-10 211230](https://github.com/user-attachments/assets/bd230e33-de44-4f6e-a22b-8b63f4951994)
 
-![Screenshot 2024-12-20 235726](https://github.com/user-attachments/assets/2fb09c51-8509-49ff-8698-0f79c3124334)
+![Screenshot 2024-12-10 204922](https://github.com/user-attachments/assets/fdd2dee6-fb3b-423a-8f57-f5e4d1e80c76)
 
-![Screenshot 2024-12-10 204922](https://github.com/user-attachments/assets/c0694da3-5247-437e-b095-13f945a01578)
+![Screenshot 2024-12-10 205014](https://github.com/user-attachments/assets/5dd82a8b-6157-42b7-ac2b-79d19ebd3e5d)
 
-![Screenshot 2024-12-10 205014](https://github.com/user-attachments/assets/5a7ceda0-1ab8-42b2-a820-851069eae3aa)
+![Screenshot 2024-12-10 205432](https://github.com/user-attachments/assets/0fcf2acc-5c29-4c46-9054-f3d43a77117a)
 
-![Screenshot 2024-12-10 205432](https://github.com/user-attachments/assets/81546e38-731b-455c-be4f-f01f56c9d942)
+![Screenshot 2024-12-10 205637](https://github.com/user-attachments/assets/e9d9a0aa-3f77-465c-a0d5-cdc9cd0dcd7e)
 
-![Screenshot 2024-12-10 205637](https://github.com/user-attachments/assets/e1b26505-3420-4f6d-9c24-cb25b025b688)
+![Screenshot 2024-12-10 205749](https://github.com/user-attachments/assets/b2d0c607-d1ce-4396-b6c9-d06c7b5a4572)
 
-![Screenshot 2024-12-10 205749](https://github.com/user-attachments/assets/8ac7575d-82a7-4d91-90a0-0b88630680d8)
+![Screenshot 2024-12-10 205918](https://github.com/user-attachments/assets/0313bfd2-2373-43ae-800e-fef1e84ed8f7)
 
-![Screenshot 2024-12-10 205918](https://github.com/user-attachments/assets/056010dc-1f47-46e3-9d21-3703b27d1b2e)
+![Screenshot 2024-12-10 210141](https://github.com/user-attachments/assets/058fea43-32db-4f9d-bc5c-adca476c34e5)
 
-![Screenshot 2024-12-10 210110](https://github.com/user-attachments/assets/4022ecaf-83dd-4e04-9a78-8177385e1454)
+![Screenshot 2024-12-10 210622](https://github.com/user-attachments/assets/0fce5c39-4828-4c23-b3dd-bf3b4147f845)
 
-![Screenshot 2024-12-10 210141](https://github.com/user-attachments/assets/de93e258-ffa9-478f-a536-5225c383afb5)
+![Screenshot 2024-12-10 210850](https://github.com/user-attachments/assets/dfe3e785-a495-4f35-84cd-fad4ed48d9a4)
 
-![Screenshot 2024-12-10 210622](https://github.com/user-attachments/assets/15f19df1-3cf9-4330-b0a9-9a3f49d49a56)
-
-![Screenshot 2024-12-10 210850](https://github.com/user-attachments/assets/6f448c52-c6e9-47f5-8c89-818922704ba4)
-
-![Screenshot 2024-12-10 210922](https://github.com/user-attachments/assets/069b9398-3cd5-4305-b610-c296653721b3)
-
-![Screenshot 2024-12-10 211122](https://github.com/user-attachments/assets/aae89e8e-429d-4dad-8963-578eddd5f198)
+![Screenshot 2024-12-10 210922](https://github.com/user-attachments/assets/11e8eed5-fa7a-40cd-81f8-f81e031257a5)
 
 ## Requirements
 
